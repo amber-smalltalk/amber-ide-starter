@@ -11,8 +11,10 @@
 
 <body>
 <script type='text/javascript'>
-    require.config({paths:{jquery:"bower_components/jquery/dist/jquery"}});
-    require(['amber-ide-starter-dialog']);
+    require.config({paths: {jquery: "bower_components/jquery/dist/jquery"}});
+    require(['amber-ide-starter-dialog'], function (s) {
+        s.start();
+    });
 </script>
 </body>
 
