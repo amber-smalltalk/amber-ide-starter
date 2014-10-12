@@ -14,7 +14,7 @@ and include `require(['amber-ide-starter-dialog'], function (s) { s.start(); });
 
 ## How to try
 
-So to just try it, clone it, npm install, bower install, amber config, amber serve and point the browser to (http://localhost:4000).
+So to just try it, clone it, npm install, bower install, amber config, amber serve and point the browser to http://localhost:4000
 
 ## How to install into a project
 
@@ -30,4 +30,6 @@ run ```amber devel``` to regenerate config, include the loading snippet from REA
 `require(['amber-ide-starter-dialog'], function (s) { s.start(); });` 
 
 and see it open itself after amber loads while in development, and just fail it load while in production. 
+
+![Screenshot](Screenshot.png)
 
