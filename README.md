@@ -16,7 +16,7 @@ Include as devDependency in your Amber project:
 bower install amber-ide-starter-dialog --save-dev
 ```
 
-run ```amber devel``` to regenerate config, include the loading snippet from README into index.html
+run ```grunt devel``` to regenerate config, include the loading snippet from README into index.html
 
 
 `require(['amber-ide-starter-dialog'], function (s) { s.start(); });` 
