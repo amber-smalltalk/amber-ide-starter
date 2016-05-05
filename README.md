@@ -4,6 +4,34 @@ Hidden modal dialog to open Amber IDEs
 This is a library to be used within a project.
 There is an index.html that demonstrates the functionality.
 
+MOVED
+====
+
+Amber IDE starter is now at https://lolg.it/amber/amber-ide-starter.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+
 ## How to try
 
 So to just try it, clone it, bower install, amber config, amber serve and point the browser to http://localhost:4000
